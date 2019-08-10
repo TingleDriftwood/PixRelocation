@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<Settings>
+    <Log>
+        <Level>INFO</Level>
+        <LogPath>C:\scripts\Elsa\Logs\</LogPath>
+        <LogName>Elsa</LogName>
+		<History>-30</History>
+    </Log>
+    <Target>
+        <TargetPath>C:\scripts\Elsa\Source\</TargetPath>
+    </Target>
+	<Script>
+		<!-- Setting Script Level (DEV, PRE, PROD) -->
+		<Level>DEV</Level>
+	</Script>
+</Settings>
